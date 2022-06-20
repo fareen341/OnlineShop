@@ -4,7 +4,6 @@ import { StyleSheet, Text, View, Image } from 'react-native';
 import { Home } from './MyComponents/Home';
 import { NavigationContainer } from '@react-navigation/native';
 import { createDrawerNavigator } from '@react-navigation/drawer';
-import { Contact } from './MyComponents/Contact';
 import { Login } from './MyComponents/Login';
 import { Product } from './MyComponents/Product';
 import { Provider } from 'react-redux';
